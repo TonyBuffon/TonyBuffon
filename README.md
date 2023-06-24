@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as a Backend Developer and Leader at Helpoo<br>🌱 I'm Learning ML and AI in parallel with developing myself in backend development<br>🌱  Student At CS department , Faculty of Science , Cairo University<br>⚡ Fast learner with the fastest delivery<br>💥 CO-Founder and COO of the greatest 🤫<br>💥 Enjoy Coding and Everything will be better! <br>🤝 If you need any help it will be my pleasure to help
+🔭 I'm currently working as a Backend Lead at Helpoo<br>🌱 I'm Learning ML and AI in parallel with developing myself in backend development<br>🌱  Student At CS department , Faculty of Science , Cairo University<br>⚡ Fast learner with the fastest delivery<br>💥 CO-Founder and COO of the greatest 🤫<br>💥 Enjoy Coding and Everything will be better! <br>🤝 If you need any help it will be my pleasure to help
 
 
 ## 🌐 Socials:
