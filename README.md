@@ -7,7 +7,7 @@
 ### 🧩 Who Am I?
 
 I'm a problem-solving, performance-driven software engineer with a deep love for clean architecture and scalability.  
-With **7+ years** of experience building high-availability systems, I've led critical backend projects, scaled teams, and co-founded a stealth-mode startup — all while mentoring devs and shipping fast.
+With **4+ years** of experience building high-availability systems, I've led critical backend projects, scaled teams, and co-founded a stealth-mode startup — all while mentoring devs and shipping fast.
 
 ---
 
