@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as a Backend Engineer @Helpoo<br>⚡ Fast learner with the fastest delivery<br>💥 CO-Founder and COO of the greatest 🤫<br>💥 Enjoy Coding and Everything will be better! <br>🤝 If you need any help it will be my pleasure to help
+🔭 I'm currently working as a Senior Backend Engineer<br>⚡ Fast learner with the fastest delivery<br>💥 CO-Founder and COO of the greatest 🤫<br>💥 Enjoy Coding and Everything will be better! <br>🤝 If you need any help it will be my pleasure to help
 
 
 ## 🌐 Socials:
