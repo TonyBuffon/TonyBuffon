@@ -41,32 +41,20 @@ With **4+ years** of experience building high-availability systems, I've led cri
 
 #### 🔧 Frameworks & Libraries
 
-**→ Go**
-- [Gin](https://gin-gonic.com/)
-- [Echo](https://echo.labstack.com/)
-- [Fiber](https://gofiber.io/)
+<img src="https://gofiber.io/images/logo.svg" width="25"/> [Fiber](https://gofiber.io/)
 
-**→ Python**
-- [Flask](https://flask.palletsprojects.com/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Django](https://www.djangoproject.com/)
+<img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-icon.png" width="25"/> [Flask](https://flask.palletsprojects.com/) |
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="25"/> [FastAPI](https://fastapi.tiangolo.com/) |
+<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="55"/> [Django](https://www.djangoproject.com/)
 
-**→ JavaScript / TypeScript**
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [NestJS](https://nestjs.com/)
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
-- [Socket.io](https://socket.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="25"/> [Node.js](https://nodejs.org/) |
+<img src="https://expressjs.com/images/express-facebook-share.png" width="25"/> [Express.js](https://expressjs.com/) |
+<img src="https://nestjs.com/img/logo-small.svg" width="25"/> [NestJS](https://nestjs.com/) |
+<img src="https://socket.io/images/logo.svg" width="25"/> [Socket.io](https://socket.io/) |
 
-**→ Java**
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [Micronaut](https://micronaut.io/)
+<img src="https://spring.io/images/icon-spring-2e3e0c0f5b35f0c5c089.png" width="25"/> [Spring Boot](https://spring.io/projects/spring-boot) |
 
-**→ C# / .NET**
-- [.NET Core](https://dotnet.microsoft.com/en-us/)
-- [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)
+<img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png" width="25"/> [.NET Core](https://dotnet.microsoft.com/en-us/) |
 
 ---
 
