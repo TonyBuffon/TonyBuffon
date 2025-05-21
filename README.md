@@ -90,7 +90,8 @@ With **4+ years** of experience building high-availability systems, I've led cri
 ![](https://github-readme-stats.vercel.app/api?username=tonyBuffon&theme=dark&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tonyBuffon&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyBuffon&theme=dark&hide_border=true&layout=compact)
-![](<img align = "left" src="https://komarev.com/ghpvc/?username=philopaterwaheed&&style=flat-square"  />)
+
+<img align = "left" src="https://komarev.com/ghpvc/?username=philopaterwaheed&&style=flat-square"  />
 ### 🔝 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=tonyBuffon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
